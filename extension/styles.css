@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    padding: 10px;
+    width: 250px;
+  }
+  input {
+    width: 90%;
+    margin-bottom: 5px;
+  }
+  button {
+    margin-bottom: 10px;
+  }
+  li {
+    margin: 5px 0;
+    cursor: pointer;
+  }
+img{
+  padding-left: 10px;
+  height: 15px;
+}
+
+ul{
+  display: flex;
+  flex-direction: column;
+}
+
+li{
+  display: flex;
+  justify-content: space-between;
+}
